@@ -1,0 +1,26 @@
+
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.filthyx{
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding:1.6em;
+    border: 10px;
+}
+.Engtx{
+    text-align: center;
+    color: white;
+    margin: auto;
+    padding:1.6em;
+    border: 10px;
+}
+img{
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+    height: 500;
+}
